@@ -108,6 +108,7 @@ public class PlaylistColls {
                 Float shortItem = item.length_secs;
                 shortItemLengths1.add(shortItem);
             }
+        }
 
         System.out.printf("shortItemLengths1 = %s\n", shortItemLengths1);
 
